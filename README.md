@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Agrawal
+- 👋 Hi, I’m  <h2>Ashish Agrawal</h2>
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning AI/ML
 - 📫 How to reach me **ashish.agrawal.mail@gmail.com**
